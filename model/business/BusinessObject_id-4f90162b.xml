@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsarchitectuur"
+    id="id-4f90162b"
+    documentation="Hiermee begint iedere architectuur, deze bevat de business doelstellingen, strategie en uitwerking processen, functies en rollen.&#xA;&#xA;Bron: Enterprise Architectuur Rijksoverheid (EAR) &#xA;&#xA;The Business layer is about business processes, services, functions and events of business units. This layer &quot;offers products and services to external customers, which are realized in the organization by business processes performed by business actors and roles&quot;.&#xA;&#xA;Bron: ArchiMate"/>

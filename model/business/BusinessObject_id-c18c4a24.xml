@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elementen"
+    id="id-c18c4a24"
+    documentation="Basiselement van een product conform ArchiMate. Deze zijn weer onderverdeeld in&#xA;- actieve structuurelementen, bv bedrijfsrollen, referentiecomponenten&#xA;- passive structuurelementen, bv bedrijfsprocessen, bedrijfsfuncties, applicatiefuncties&#xA;- gedragselementen, bv bedrijfsobjecten, gegevensobjecten"/>

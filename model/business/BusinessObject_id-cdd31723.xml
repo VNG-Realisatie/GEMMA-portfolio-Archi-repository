@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructuuurcomponentenmodel"
+    id="id-cdd31723"
+    documentation="Dit zijn de infrastuctuuronderdelen van de techische architectuur, vergelijkbaar met de referentiecomponenten in de Informatie- en applicatiearchitectuur, denk hierbij beijvbeeld als de infrastructurele informatiebeveiligingscomponenten of aan firewalls, servicebussen etc"/>

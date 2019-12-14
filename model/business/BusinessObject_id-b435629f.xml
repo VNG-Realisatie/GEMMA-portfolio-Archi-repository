@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiefunctiemodel"
+    id="id-b435629f"
+    documentation="Dit model is onderdeel van het GEMMA model en omvat alle  applicatiefuncties.&#xA;&#xA;Een applicatiefunctie is het gedragselement dat geautomatiseerd gedrag groepeert dat door een applicatiecomponent kan worden uitgevoerd.&#xA;&#xA;Bron: ArchiMate"/>

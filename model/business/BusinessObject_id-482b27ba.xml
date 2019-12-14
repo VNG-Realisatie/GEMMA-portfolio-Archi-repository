@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsfunctiemodel"
+    id="id-482b27ba"
+    documentation="Dit model is onderdeel van het GEMMA model en omvat alle bedrijfsfuncties&#xA;&#xA;Een bedrijfsfunctie is een gedragselement dat gedrag groepeert op basis van een bepaalde verzameling criteria (zoals vereiste bedrijfsmiddelen en/of competenties).&#xA;&#xA;Bron: ArchiMate"/>

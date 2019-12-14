@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA centraal"
+    id="325485da"
+    documentation="GEMMA centraal is de werktitel voor de doelarchitectuur waarbinnen collectieve voorzieningen worden gerealiseerd en beschikbaar komen voor alle Nederlandse gemeenten.&#xD;&#xA;&#xD;&#xA;De GEMMA blijft daarnaast als referentiearchitectuur (werktitel “GEMMA lokaal”) bestaan. Naar verwachting zullen de komende jaren wel componenten en functies uit GEMMA lokaal naar GEMMA centraal verplaatsen. Op deze wijze wordt de vormgeving van collectieve informatiefuncties ondersteund en tevens de aansluiting van lokaal in te vullen informatievoorziening omschreven.&#xD;&#xA;&#xD;&#xA;Bron: Visie op gemeentelijke applicatie-architectuur en bijbehorende standaarden; 28 sept 2017; KING"/>

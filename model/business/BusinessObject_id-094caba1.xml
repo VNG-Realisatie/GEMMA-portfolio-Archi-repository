@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relaties"
+    id="id-094caba1"
+    documentation="Een relatie tussen objecten convorm ArchiMate 2.1. Deze zijn onderverdeeld in&#xA;*Structural Relationships: &#xA;*# Composition Relationship&#xA;*#  Aggregation Relationship&#xA;*# Assignment Relationship&#xA;*# Realization Relationship&#xA;*# Used By Relationship&#xA;*# Association Relationship&#xA;*  Dynamic Relationships&#xA;*#  Triggering Relationship&#xA;*#  Flow Relationship&#xA;* Other Relationships&#xA;*#  Grouping&#xA;*#  Junction&#xA;*#   Specialization Relationship"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="View"
+    id="id-f00c7df6"
+    documentation="A view is a representation of a whole system from the perspective of a related set of concerns.&#x9;&#xA;&#xA;Bron: Wikipedia (https://en.wikipedia.org/wiki/View_model)&#xA;&#xA;Views zoals hier bedoeld kunnen ook productoverstijgend zijn, zoals het in het thema Informatiebeheer&#xA;Eigenlijk is het woord model voorbehouden aan het toaal van de onderdelen dat op deze plaat staat."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesarchitectuur"
+    id="id-33b9330c"
+    documentation="Dit model is onderdeel van het GEMMA model en omvat alle bedrijfsprocessen&#xA;&#xA;Een bedrijfsproces is een gedragselement dat gedrag groepeert op basis van een volgordelijkheid van activiteiten en dat tot doel heeft een gedefinieerde verzameling producten of bedrijfsservices te produceren.&#xA;&#xA;Bron: ArchiMate"/>

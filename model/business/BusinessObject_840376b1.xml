@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actoren en rollen"
+    id="840376b1"
+    documentation="Het actoren en rollenmodel toont de (rechts)personen en organisatorische eenheden (actoren) en de verantwoordelijkheden (rollen). &#xD;&#xA;&#xD;&#xA;Bedrijfsactor:&#x9;Een bedrijfsactor is een organisatorische eenheid die in staat is bepaald (actief) gedrag te vertonen.&#x9;Bron: ArchiMate 2.1&#xD;&#xA;Bedrijfsrol &#x9;Een bedrijfsrol is de verantwoordelijkheid voor specifiek gedrag waar een bedrijfsactor aan toegewezen kan worden.&#x9;Bron: ArchiMate 2.1"/>

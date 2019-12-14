@@ -1,0 +1,19 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA Portfolio"
+    id="id-fe39126c"
+    purpose="Overzicht van alle producten van de Unit Architectuur en Standaarden&#xD;&#xA;&#xD;&#xA;De producten van de standaarden zijn (nog) niet compleet uitgewerkt"
+    version="4.6.0">
+  <properties
+      key="Versie"
+      value="0.9"/>
+  <properties
+      key="Architectuurtool"
+      value="Archi"/>
+  <properties
+      key="Object ID"
+      value="748cb675-ae8f-4971-843a-73de72332646"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+</archimate:ArchimateModel>
