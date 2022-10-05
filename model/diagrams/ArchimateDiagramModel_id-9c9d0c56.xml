@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA Portfolio oud"
+    name="GEMMA Portfolio (erg oud)"
     id="id-9c9d0c56"
     documentation="Op deze view staat het GEMMA porfolio nader toegelicht.">
   <children
@@ -431,8 +431,8 @@
           width="301"
           height="181"/>
       <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-621fdeba.xml#id-621fdeba"/>
+          xsi:type="archimate:Grouping"
+          href="Grouping_id-529436ee0d994c968c5ad7efdffc2e27.xml#id-529436ee0d994c968c5ad7efdffc2e27"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -445,8 +445,8 @@
           width="325"
           height="181"/>
       <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-0997eed6.xml#id-0997eed6"/>
+          xsi:type="archimate:Grouping"
+          href="Grouping_id-6b591970f5d044b6a456bdc0aa030e5d.xml#id-6b591970f5d044b6a456bdc0aa030e5d"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -501,8 +501,8 @@
             href="BusinessObject_id-591ee9f8.xml#id-591ee9f8"/>
       </children>
       <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-01144f1c.xml#id-01144f1c"/>
+          xsi:type="archimate:Grouping"
+          href="Grouping_id-e153a15c923b41348ca3ad8ac7b250a1.xml#id-e153a15c923b41348ca3ad8ac7b250a1"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technische architectuur"
+    name="Technische architectuur (niet uitgewerkt)"
     id="id-199916a7"
     documentation="The Technology Layer offers infrastructure services (e.g., processing, storage, and communication services) needed to run applications, realized by computer and communication hardware and system software.&#xA;&#xA;Bron: ArchiMate 2.1"/>
