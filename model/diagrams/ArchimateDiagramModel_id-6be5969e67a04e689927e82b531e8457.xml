@@ -533,15 +533,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-1b482fb3933046219a03564665b9270f"
-          source="id-753c9902f6bc45e0aa9d20c096962365"
-          target="id-5c9f40760baa4a039bcc8bcbab61cdbf">
-        <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_id-c65c5f98.xml#id-c65c5f98"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c72d23c9c7eb420da5b3e8bbe1496079"
           source="id-753c9902f6bc45e0aa9d20c096962365"
           target="id-6b8d822252d84fd58efbbe6b5b0ab678">
@@ -549,26 +540,20 @@
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-8113e422d07741b79fbbd63dc9fc0837.xml#id-8113e422d07741b79fbbd63dc9fc0837"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d6817f28c5fb4ccb97afa02c08a0e033"
+          source="id-753c9902f6bc45e0aa9d20c096962365"
+          target="id-9a77a1e70eef4592b85ad31b9572498f">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-8c60c1a995b8408d97931d74fda42cce.xml#id-8c60c1a995b8408d97931d74fda42cce"/>
+      </sourceConnections>
       <bounds
           x="20"
           y="40"
           width="1329"
           height="111"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-5c9f40760baa4a039bcc8bcbab61cdbf"
-          targetConnections="id-1b482fb3933046219a03564665b9270f"
-          lineColor="#5c5c5c"
-          fillColor="#ffffcc">
-        <bounds
-            x="940"
-            y="30"
-            width="170"
-            height="60"/>
-        <archimateElement
-            xsi:type="archimate:BusinessObject"
-            href="BusinessObject_id-46a21032.xml#id-46a21032"/>
-      </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e0ba4533030e45f093db04cfff954fff"
@@ -621,13 +606,26 @@
           lineColor="#5c5c5c"
           fillColor="#ffffcc">
         <bounds
-            x="650"
+            x="600"
             y="30"
             width="170"
             height="60"/>
         <archimateElement
             xsi:type="archimate:BusinessObject"
             href="BusinessObject_id-a699bb944b634bb6b1857019b81cf784.xml#id-a699bb944b634bb6b1857019b81cf784"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-9a77a1e70eef4592b85ad31b9572498f"
+          targetConnections="id-d6817f28c5fb4ccb97afa02c08a0e033">
+        <bounds
+            x="790"
+            y="30"
+            width="130"
+            height="60"/>
+        <archimateElement
+            xsi:type="archimate:BusinessObject"
+            href="BusinessObject_id-d1aa4214f6094e4d9995e28b3983cf77.xml#id-d1aa4214f6094e4d9995e28b3983cf77"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"
