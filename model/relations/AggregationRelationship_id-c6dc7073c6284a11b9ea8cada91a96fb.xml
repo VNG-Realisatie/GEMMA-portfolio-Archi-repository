@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceren en samenwerken"
+    id="id-c6dc7073c6284a11b9ea8cada91a96fb">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a699bb944b634bb6b1857019b81cf784.xml#id-a699bb944b634bb6b1857019b81cf784"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bc86ffa9.xml#id-bc86ffa9"/>
+</archimate:AggregationRelationship>

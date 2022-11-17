@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Github VNG realisatie"
-    id="id-a699bb944b634bb6b1857019b81cf784"/>
+    id="id-a699bb944b634bb6b1857019b81cf784"
+    documentation="Hosting platform gebruikt voor ontwikkeling van standaarden en open source software"/>
