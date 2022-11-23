@@ -332,36 +332,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-cb082d41d63646db84d1f31159f3695b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-fa4c10ef3b884876aa01eebc682d7c2b"
-        source="id-cb082d41d63646db84d1f31159f3695b"
-        target="id-ad443d4768ae485090ae364d9d44eaac">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-b6514c3e484f4b8aab2397e673ef638c.xml#id-b6514c3e484f4b8aab2397e673ef638c"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-92c554f3e0184bd1a0f8b7b0693e6d3e"
-        source="id-cb082d41d63646db84d1f31159f3695b"
-        target="id-69ec2137caf343188aafc481f74fb25d">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-165039bd8f1448dcabcf898deb4cc3a2.xml#id-165039bd8f1448dcabcf898deb4cc3a2"/>
-    </sourceConnections>
-    <bounds
-        x="2120"
-        y="420"
-        width="191"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-f0b429948a2d4ee3ba938b6c67d90ae7.xml#id-f0b429948a2d4ee3ba938b6c67d90ae7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b2d048540da24f54817bf6224dd86a4f"
       lineColor="#5c5c5c">
     <sourceConnections
@@ -525,7 +495,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ad443d4768ae485090ae364d9d44eaac"
-          targetConnections="id-718b5d567a4e415b96a8ec644f3f6b73 id-fa4c10ef3b884876aa01eebc682d7c2b id-8164d9e06bcc4d55b7f096f02fb48f6e"
+          targetConnections="id-718b5d567a4e415b96a8ec644f3f6b73 id-8164d9e06bcc4d55b7f096f02fb48f6e"
           lineColor="#5c5c5c"
           fillColor="#ffffcc">
         <bounds
@@ -798,7 +768,7 @@
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="id-69ec2137caf343188aafc481f74fb25d"
-              targetConnections="id-f3f0929fc3944a17bd26cf51eb6cdc21 id-92c554f3e0184bd1a0f8b7b0693e6d3e"
+              targetConnections="id-f3f0929fc3944a17bd26cf51eb6cdc21"
               lineColor="#5c5c5c"
               fillColor="#ffffcc">
             <bounds
