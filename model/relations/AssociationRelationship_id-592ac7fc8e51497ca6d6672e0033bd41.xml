@@ -1,12 +1,14 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="gebruikt"
-    id="id-ced197f4a9c64068a7ab4aead926fc6d">
+    id="id-592ac7fc8e51497ca6d6672e0033bd41">
+  <properties
+      key="Type before conversion"
+      value="aggregation-relationship"/>
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-3a3e67be.xml#id-3a3e67be"/>
-  <target
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-3e9867efb1a14d1e8e8b14a5cabe022f.xml#id-3e9867efb1a14d1e8e8b14a5cabe022f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7d0f62ff.xml#id-7d0f62ff"/>
 </archimate:AssociationRelationship>

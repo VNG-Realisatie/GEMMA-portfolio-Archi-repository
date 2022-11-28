@@ -1,5 +1,5 @@
-<archimate:BusinessObject
+<archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gitlab VNG realisatie"
-    id="id-067802edfcf948c5b328cdf46fdf9d8b"
+    id="id-94fdceec4b3e4cdd89739ec0fe2c352c"
     documentation="Hosting platform gebruikt voor GEMMA versiebeheer en architectuurrepository"/>

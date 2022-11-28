@@ -786,6 +786,15 @@
           id="id-ad5e1a570c5642e08b843725f6844e47"
           targetConnections="id-3a709628357b4a5188c2302df0da3ee7"
           fillColor="#fefeb4">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-73f122356c7244b28f5db58296627fc4"
+            source="id-ad5e1a570c5642e08b843725f6844e47"
+            target="id-d2576032afe34f8c8e4cb504db5deb9a">
+          <archimateRelationship
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-432182b50f9e4fcca1abb082d219b3b8.xml#id-432182b50f9e4fcca1abb082d219b3b8"/>
+        </sourceConnections>
         <bounds
             x="320"
             y="40"
@@ -1296,6 +1305,20 @@
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-6bcc22a5eb674fca8dd5b88ea09e6c84.xml#id-6bcc22a5eb674fca8dd5b88ea09e6c84"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d2576032afe34f8c8e4cb504db5deb9a"
+      targetConnections="id-73f122356c7244b28f5db58296627fc4"
+      textAlignment="1">
+    <bounds
+        x="1360"
+        y="590"
+        width="151"
+        height="91"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-f031beb5353e4484b599ba58a60afd07.xml#id-f031beb5353e4484b599ba58a60afd07"/>
   </children>
   <properties
       key="Publiceren"
