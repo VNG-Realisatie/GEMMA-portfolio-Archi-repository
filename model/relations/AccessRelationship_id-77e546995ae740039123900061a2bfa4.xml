@@ -1,7 +1,8 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-77e546995ae740039123900061a2bfa4">
+    id="id-77e546995ae740039123900061a2bfa4"
+    accessType="1">
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-4f82c09fda2642ee857d01797b9646f3.xml#id-4f82c09fda2642ee857d01797b9646f3"/>
