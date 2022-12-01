@@ -2,20 +2,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Functioneel beheerder"
-    id="id-0602db7d713a4ee69ef9f101b69f6ff4"
-    documentation="View genereated with these settings and selections&#xA;&#xA;Parameter: &#xA;{&#xA;  &quot;action&quot;: &quot;GENERATE_SINGLE&quot;,&#xA;  &quot;graphDepth&quot;: 1,&#xA;  &quot;includeElementType&quot;: [],&#xA;  &quot;includeRelationType&quot;: [],&#xA;  &quot;layoutReversed&quot;: [&#xA;    &quot;realization-relationship&quot;,&#xA;    &quot;serving-relationship&quot;,&#xA;    &quot;specialization-relationship&quot;&#xA;  ],&#xA;  &quot;layoutNested&quot;: [],&#xA;  &quot;graphDirection&quot;: &quot;LR&quot;,&#xA;  &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA;  &quot;nodeWidth&quot;: 200,&#xA;  &quot;nodeHeight&quot;: 60,&#xA;  &quot;hSep&quot;: 20,&#xA;  &quot;vSep&quot;: 180,&#xA;  &quot;debug&quot;: true,&#xA;  &quot;viewName&quot;: &quot;Functioneel beheerder&quot;&#xA;}&#xA;&#xA;Selection: &#xA;[&#xA;  &quot;business-role: Functioneel beheerder&quot;&#xA;]&#xA;&#xA;Result filtered elements: &#xA;[&#xA;  &quot;business-role: Functioneel beheerder&quot;&#xA;]">
+    id="id-43c0be8bc2f34ca8ad473c1946031b86">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-069769c5e3164af69d649ced02f1a0ec"
-      targetConnections="id-e3328d8cef9543f39d6fa64c447bf021">
+      id="id-ad37cfa7c38041fb916ac81ef9f19bce">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-23c5f03e2ad94ac192be5b3c217a8e87"
-        source="id-069769c5e3164af69d649ced02f1a0ec"
-        target="id-db0cd280b3bb442fa87851096e4ecac7">
+        id="id-2830f8750e614244b2d17584fed43f31"
+        source="id-ad37cfa7c38041fb916ac81ef9f19bce"
+        target="id-f2719c3d05124ce398412261d00efc09">
       <bendpoints
           startX="190"
-          startY="-120"
+          startY="-160"
           endX="-190"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
@@ -23,12 +21,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-541fb3a72c9148d59ce3f0997e9b79f4"
-        source="id-069769c5e3164af69d649ced02f1a0ec"
-        target="id-2f51dbac9a05469d8251fa0bf5117476">
+        id="id-8559efcd22be41a1b049c3b99da87b7a"
+        source="id-ad37cfa7c38041fb916ac81ef9f19bce"
+        target="id-a5a6cdd99aec4c3aaec2c3db43507b3b">
       <bendpoints
           startX="190"
-          startY="-40"
+          startY="-80"
           endX="-190"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
@@ -36,12 +34,11 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7828a2eb5470407d9b7607494a2539db"
-        source="id-069769c5e3164af69d649ced02f1a0ec"
-        target="id-919136f966eb49898067c33f5db03296">
+        id="id-9ae4618dbdd44e33b79bf254bbc71b07"
+        source="id-ad37cfa7c38041fb916ac81ef9f19bce"
+        target="id-89d509f320c746d09156b25b08134d4b">
       <bendpoints
           startX="-190"
-          startY="-40"
           endX="190"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
@@ -49,12 +46,11 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f7c209f9c6614667a60777451a40f21b"
-        source="id-069769c5e3164af69d649ced02f1a0ec"
-        target="id-3c406f0c6ed949518912c43a895dbb5c">
+        id="id-0eec6351a587408cba137e5c826d2374"
+        source="id-ad37cfa7c38041fb916ac81ef9f19bce"
+        target="id-7bb26482d7584b1b9491ed14b88de571">
       <bendpoints
           startX="190"
-          startY="40"
           endX="-190"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
@@ -62,20 +58,33 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-45dd845cfb59481290e2739c90bad2f5"
-        source="id-069769c5e3164af69d649ced02f1a0ec"
-        target="id-e2f41b040d9941ae836caf0b01387903">
+        id="id-bc6a3a1be4fe45108912a2670bd1c2f6"
+        source="id-ad37cfa7c38041fb916ac81ef9f19bce"
+        target="id-67c6a55ee360407183aa8533b11b4b66">
       <bendpoints
           startX="190"
-          startY="120"
+          startY="80"
           endX="-190"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-0806e66fd440410e9f1c76e3b91764cc.xml#id-0806e66fd440410e9f1c76e3b91764cc"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d8a9d8608bae4f7c9a1901a38e2312c8"
+        source="id-ad37cfa7c38041fb916ac81ef9f19bce"
+        target="id-d4cf963ed1f748aa8224404e7088e701">
+      <bendpoints
+          startX="190"
+          startY="160"
+          endX="-190"/>
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-2f2ca755566d4468b1f44a4512d258cb.xml#id-2f2ca755566d4468b1f44a4512d258cb"/>
+    </sourceConnections>
     <bounds
         x="390"
-        y="130"
+        y="170"
         width="201"
         height="61"/>
     <archimateElement
@@ -84,8 +93,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-db0cd280b3bb442fa87851096e4ecac7"
-      targetConnections="id-23c5f03e2ad94ac192be5b3c217a8e87">
+      id="id-f2719c3d05124ce398412261d00efc09"
+      targetConnections="id-2830f8750e614244b2d17584fed43f31">
     <bounds
         x="770"
         y="10"
@@ -97,8 +106,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2f51dbac9a05469d8251fa0bf5117476"
-      targetConnections="id-541fb3a72c9148d59ce3f0997e9b79f4">
+      id="id-a5a6cdd99aec4c3aaec2c3db43507b3b"
+      targetConnections="id-8559efcd22be41a1b049c3b99da87b7a">
     <bounds
         x="770"
         y="90"
@@ -110,11 +119,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-919136f966eb49898067c33f5db03296"
-      targetConnections="id-7828a2eb5470407d9b7607494a2539db">
+      id="id-89d509f320c746d09156b25b08134d4b"
+      targetConnections="id-9ae4618dbdd44e33b79bf254bbc71b07">
     <bounds
         x="10"
-        y="90"
+        y="170"
         width="201"
         height="61"/>
     <archimateElement
@@ -123,8 +132,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3c406f0c6ed949518912c43a895dbb5c"
-      targetConnections="id-f7c209f9c6614667a60777451a40f21b">
+      id="id-7bb26482d7584b1b9491ed14b88de571"
+      targetConnections="id-0eec6351a587408cba137e5c826d2374">
     <bounds
         x="770"
         y="170"
@@ -136,8 +145,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e2f41b040d9941ae836caf0b01387903"
-      targetConnections="id-45dd845cfb59481290e2739c90bad2f5"
+      id="id-67c6a55ee360407183aa8533b11b4b66"
+      targetConnections="id-bc6a3a1be4fe45108912a2670bd1c2f6"
       textAlignment="1"
       type="1">
     <bounds
@@ -151,32 +160,18 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d3514c3f08b54d24a7eef9856339519f"
-      textAlignment="1"
-      type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e3328d8cef9543f39d6fa64c447bf021"
-        source="id-d3514c3f08b54d24a7eef9856339519f"
-        target="id-069769c5e3164af69d649ced02f1a0ec">
-      <bendpoints
-          startX="190"
-          endX="-190"
-          endY="40"/>
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-c3a8a287fbb443888a222ace330563f0.xml#id-c3a8a287fbb443888a222ace330563f0"/>
-    </sourceConnections>
+      id="id-d4cf963ed1f748aa8224404e7088e701"
+      targetConnections="id-d8a9d8608bae4f7c9a1901a38e2312c8">
     <bounds
-        x="10"
-        y="170"
+        x="770"
+        y="330"
         width="201"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-6692465db1db4044a1d694c44e39ed20.xml#id-6692465db1db4044a1d694c44e39ed20"/>
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-3663d61b6d024c2a8b8df7a2ee576734.xml#id-3663d61b6d024c2a8b8df7a2ee576734"/>
   </children>
   <properties
       key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;LAYOUT&quot;,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [],&#xA; &quot;graphDepth&quot;: 0,&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewName&quot;: &quot;Functioneel beheerder&quot;&#xA;}"/>
+      value="{&#xA; &quot;action&quot;: &quot;GENERATE_MULTIPLE&quot;,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [&#xA;  &quot;access-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [],&#xA; &quot;graphDepth&quot;: 1,&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewName&quot;: &quot;Functioneel beheerder&quot;&#xA;}"/>
 </archimate:ArchimateDiagramModel>
