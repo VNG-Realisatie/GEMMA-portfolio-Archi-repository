@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatieservicemodel"
+    name="Basisviews applicatieservices"
     id="id-121d2e21"
-    documentation="Toekomstige catalogus met de definities en beschrijvingen van de applicatieservices die de applicatieve functionaliteit van gemeentelijke informatievoorziening ondersteunen.&#xA;&#xA;Een applicatieservice is een service die geautomatiseerd gedrag blootstelt aan de omgeving.&#xA;&#xA;Bron: ArchiMate"/>
+    documentation="Generieke- en domeinspecifieke views van gemeentelijke applicatieservices.&#xD;&#xA;&#xA;Een applicatieservice ontsluit functionaliteit naar afnemers. Een voorbeeld van een applicatieservice is de 'Aanmaken zaak' service.&#xD;&#xA;&#xD;&#xA;Een applicatieservice is een service die geautomatiseerd gedrag blootstelt aan de omgeving.&#xA;&#xA;Bron: ArchiMate"/>
