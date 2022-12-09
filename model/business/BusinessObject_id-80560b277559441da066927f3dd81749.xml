@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatie services"
-    id="id-80560b277559441da066927f3dd81749"
-    documentation="Een applicatieservice ontsluit functionaliteit naar afnemers van die functionaliteit. Een voorbeeld van een applicatieservice is de 'Aanmaken zaak' service."/>

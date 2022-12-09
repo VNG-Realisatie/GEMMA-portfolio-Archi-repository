@@ -231,8 +231,8 @@
             width="1273"
             height="60"/>
         <archimateElement
-            xsi:type="archimate:BusinessObject"
-            href="BusinessObject_id-b6af0bc1.xml#id-b6af0bc1"/>
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-b1fa76dcaed04ff193d32e74b759fe0e.xml#id-b1fa76dcaed04ff193d32e74b759fe0e"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessObject"

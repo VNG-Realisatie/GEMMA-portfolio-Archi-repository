@@ -262,8 +262,8 @@
             width="228"
             height="60"/>
         <archimateElement
-            xsi:type="archimate:BusinessObject"
-            href="BusinessObject_id-b6af0bc1.xml#id-b6af0bc1"/>
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-b1fa76dcaed04ff193d32e74b759fe0e.xml#id-b1fa76dcaed04ff193d32e74b759fe0e"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -356,8 +356,8 @@
             width="169"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessObject"
-            href="BusinessObject_bc8932e4.xml#bc8932e4"/>
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-9f7d839b6d08450e804678d540938286.xml#id-9f7d839b6d08450e804678d540938286"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
