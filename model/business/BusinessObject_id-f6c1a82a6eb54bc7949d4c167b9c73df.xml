@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Standaardspecificaties"
-    id="id-f6c1a82a6eb54bc7949d4c167b9c73df"/>
+    name="VNG Standaardspecificaties"
+    id="id-f6c1a82a6eb54bc7949d4c167b9c73df"
+    documentation="Verwijzigen naar door VNG ontwikkelde en beheerde standaardspecificaties"/>
