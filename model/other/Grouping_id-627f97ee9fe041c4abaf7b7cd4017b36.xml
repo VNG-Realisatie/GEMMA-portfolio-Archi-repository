@@ -1,5 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VNG architectuur repositories"
+    name="VNG ArchiMate repositories"
     id="id-627f97ee9fe041c4abaf7b7cd4017b36"
     documentation="Verzameling van door VNG beheerde ArchiMate repositories. De repository is de fysieke opslag van een architectuurmodel.  Opslag met behulp van git maakt versiebeheer en samenwerking in één model mogelijk."/>
