@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatieservice-model"
+    name="Referentiecomponenten en applicatieservices"
     id="id-121d2e21"
-    documentation="Generieke- en domeinspecifieke views van de gemeentelijke informatievoorziening.&#xD;&#xA;"/>
+    documentation="Weergave van de in een gemeente gebruikte referentiecomponenten geordend binnen de ondersteunde applicatieservices"/>
