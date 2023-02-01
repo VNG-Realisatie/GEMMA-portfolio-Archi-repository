@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architectuur"
-    id="id-7be791524ee04b49ba5fb4d732f575cc"/>
+    id="id-7be791524ee04b49ba5fb4d732f575cc"
+    documentation="De fundamentele concepten of eigenschappen van een systeem in zijn omgeving belichaamd in zijn elementen, relaties en in de principes van zijn ontwerp en evolutie."/>
