@@ -34,19 +34,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a2f90f7f6ddf4768b5f7f5b3c560bbb9"
-        source="id-936fff93dd704bdb87b51776fa7fbe97"
-        target="id-ed7616ca69aa4f26b3c1624335aef1b0">
-      <bendpoints
-          startX="190"
-          startY="-40"
-          endX="-190"/>
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-c30a4a2ee9374c1db8eeec98451ddc64.xml#id-c30a4a2ee9374c1db8eeec98451ddc64"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5df4a010788d4f2f84166d17ed5935b0"
         source="id-936fff93dd704bdb87b51776fa7fbe97"
         target="id-3194ed1961a341d3b8982a86c6fe1fb1">
@@ -110,6 +97,19 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-6baa1dae1f0247b893bfba7bad941e12.xml#id-6baa1dae1f0247b893bfba7bad941e12"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a2f90f7f6ddf4768b5f7f5b3c560bbb9"
+        source="id-936fff93dd704bdb87b51776fa7fbe97"
+        target="id-ed7616ca69aa4f26b3c1624335aef1b0">
+      <bendpoints
+          startX="190"
+          startY="-40"
+          endX="-190"/>
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-c30a4a2ee9374c1db8eeec98451ddc64.xml#id-c30a4a2ee9374c1db8eeec98451ddc64"/>
+    </sourceConnections>
     <bounds
         x="390"
         y="210"
@@ -151,16 +151,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ed7616ca69aa4f26b3c1624335aef1b0"
       targetConnections="id-a2f90f7f6ddf4768b5f7f5b3c560bbb9"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="770"
         y="170"
         width="201"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-6b591970f5d044b6a456bdc0aa030e5d.xml#id-6b591970f5d044b6a456bdc0aa030e5d"/>
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_4a89ce6b.xml#4a89ce6b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

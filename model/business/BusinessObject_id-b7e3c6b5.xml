@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informatiearchitectuur"
-    id="id-b7e3c6b5"
-    documentation="GEMMA Online: &#xA;De GEMMA Informatie- en applicatie-architectuur beschrijft de inrichting van de informatievoorziening. Denk aan applicatie services, applicaties en landelijke voorzieningen. Deze architectuur is als landelijke referentie ontwikkeld en is richtinggevend bij de inrichting van de gemeentelijke informatievoorziening.&#xA;&#xA;Een belangrijk onderdeel zijn de referentiecomponenten. Voor veel referentiecomponenten zijn één of meerdere aanbevolen of verplichte normen en standaarden gedefinieerd.&#xA;&#xA;&#xA;ArchiMate:&#xA;The Application layer is about software applications that &quot;support the components in the business with application services&quot;."/>
