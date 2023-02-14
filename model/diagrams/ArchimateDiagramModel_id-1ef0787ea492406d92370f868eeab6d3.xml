@@ -1410,6 +1410,15 @@
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-3d310b7a5a0b4b5dafc90f11d95def0b.xml#id-3d310b7a5a0b4b5dafc90f11d95def0b"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-908d0f86df4e4163aa5ff0da3e242d2c"
+          source="id-4a1eef2257d34f238ce323e17fb12b15"
+          target="id-ef371da2d62547bfbb5eb79326f23f4a">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-90550963129047df9f83b751f1f63318.xml#id-90550963129047df9f83b751f1f63318"/>
+      </sourceConnections>
       <bounds
           x="800"
           y="40"
@@ -1439,10 +1448,10 @@
               href="AssociationRelationship_id-b9379d4daa51415dbee887aa4e88cf02.xml#id-b9379d4daa51415dbee887aa4e88cf02"/>
         </sourceConnections>
         <bounds
-            x="40"
+            x="220"
             y="40"
             width="161"
-            height="55"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:BusinessObject"
             href="BusinessObject_id-b76d14c1.xml#id-b76d14c1"/>
@@ -1469,6 +1478,19 @@
         <archimateElement
             xsi:type="archimate:BusinessObject"
             href="BusinessObject_id-f6c1a82a6eb54bc7949d4c167b9c73df.xml#id-f6c1a82a6eb54bc7949d4c167b9c73df"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-ef371da2d62547bfbb5eb79326f23f4a"
+          targetConnections="id-908d0f86df4e4163aa5ff0da3e242d2c">
+        <bounds
+            x="40"
+            y="40"
+            width="141"
+            height="61"/>
+        <archimateElement
+            xsi:type="archimate:BusinessObject"
+            href="BusinessObject_id-c3f046c6b60243aea6881a59e13417f1.xml#id-c3f046c6b60243aea6881a59e13417f1"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessObject"
