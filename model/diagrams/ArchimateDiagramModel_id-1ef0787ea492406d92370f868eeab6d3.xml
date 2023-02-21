@@ -1547,15 +1547,6 @@
           fillColor="#fefeb4">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-977b7f06ee0f42da9878a1d1bba9775c"
-            source="id-86997e3deb514e0a8a6ebef95e4ad283"
-            target="id-6772a40ccc334ff2b38ab04cb0933e43">
-          <archimateRelationship
-              xsi:type="archimate:AggregationRelationship"
-              href="AggregationRelationship_id-fd45f6af46534350a4295e2dca66083c.xml#id-fd45f6af46534350a4295e2dca66083c"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-7f7da704051c4a3484e26a033a3a1882"
             source="id-86997e3deb514e0a8a6ebef95e4ad283"
             target="id-4eead656964f40bbac8e5fe1dacba0a4">
@@ -1571,7 +1562,6 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6772a40ccc334ff2b38ab04cb0933e43"
-            targetConnections="id-977b7f06ee0f42da9878a1d1bba9775c"
             fillColor="#fefeb4">
           <bounds
               x="20"

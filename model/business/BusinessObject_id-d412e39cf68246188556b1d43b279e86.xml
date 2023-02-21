@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiearchitectuur"
+    id="id-d412e39cf68246188556b1d43b279e86"
+    documentation="Een beschrijving van de structuur en interactie van de applicaties die belangrijke bedrijfsfuncties ondersteunen en gegevens beheren.&#xD;&#xA;Binnen de GEMMA beschrijven we applicaties en data in samenhang als onderdeel van de informatiearchitectuur.&#xD;&#xA;Applicatiearchitectuur wordt niet apart gemodelleerd."/>
