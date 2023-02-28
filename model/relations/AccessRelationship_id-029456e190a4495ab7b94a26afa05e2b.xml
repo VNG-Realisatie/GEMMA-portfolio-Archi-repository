@@ -3,10 +3,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-029456e190a4495ab7b94a26afa05e2b"
     accessType="1">
+  <properties
+      key="Object ID"
+      value="600bda3e-0e7c-4516-805f-e3393be8d752"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-1f6702b1dbc14302a8bad1a9d371957b.xml#id-1f6702b1dbc14302a8bad1a9d371957b"/>
   <target
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-cbb3c5d1d2874029a36abff2d7547447.xml#id-cbb3c5d1d2874029a36abff2d7547447"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-46d5e6f90a2f445cbdb53e227df992fc.xml#id-46d5e6f90a2f445cbdb53e227df992fc"/>
 </archimate:AccessRelationship>

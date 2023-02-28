@@ -6,10 +6,13 @@
   <properties
       key="Type before conversion"
       value="aggregation-relationship"/>
+  <properties
+      key="Object ID"
+      value="543cfb39-44df-4473-b9a9-7b0f80013c5c"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-3e9867efb1a14d1e8e8b14a5cabe022f.xml#id-3e9867efb1a14d1e8e8b14a5cabe022f"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-7d0f62ff.xml#id-7d0f62ff"/>
+      href="BusinessObject_id-4b4bd211a8bf4aa28e3b92fa0992b1f1.xml#id-4b4bd211a8bf4aa28e3b92fa0992b1f1"/>
 </archimate:AccessRelationship>

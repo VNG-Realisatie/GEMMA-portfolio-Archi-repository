@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architectuur wiki's"
-    id="id-a374a96449d7483c98a4414f3b6992e8"/>
+    id="id-a374a96449d7483c98a4414f3b6992e8">
+  <properties
+      key="Object ID"
+      value="f0b74a58-a8b1-4160-8da0-fc32a044b007"/>
+</archimate:Grouping>

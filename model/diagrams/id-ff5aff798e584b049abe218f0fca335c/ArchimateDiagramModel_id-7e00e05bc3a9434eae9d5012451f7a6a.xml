@@ -149,16 +149,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2e014c6a7b614e23bea8f78f9a3e903c"
       targetConnections="id-1ef2ec5efb3643ddb9479826b497afe4"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="770"
         y="250"
         width="201"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-cbb3c5d1d2874029a36abff2d7547447.xml#id-cbb3c5d1d2874029a36abff2d7547447"/>
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-46d5e6f90a2f445cbdb53e227df992fc.xml#id-46d5e6f90a2f445cbdb53e227df992fc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -176,4 +175,7 @@
   <properties
       key="generate_view_param"
       value="{&#xA; &quot;action&quot;: &quot;GENERATE_MULTIPLE&quot;,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [&#xA;  &quot;access-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [],&#xA; &quot;graphDepth&quot;: 1,&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewName&quot;: &quot;Programmamanager&quot;&#xA;}"/>
+  <properties
+      key="Object ID"
+      value="59416bf9-5626-43dd-baee-8758a208f325"/>
 </archimate:ArchimateDiagramModel>

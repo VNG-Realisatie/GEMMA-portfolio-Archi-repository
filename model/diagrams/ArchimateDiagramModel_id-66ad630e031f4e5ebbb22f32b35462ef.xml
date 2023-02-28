@@ -79,18 +79,6 @@
           height="451"/>
       <children
           xsi:type="archimate:DiagramModelReference"
-          id="id-5696250e5442418aac377809a1dfe551">
-        <bounds
-            x="50"
-            y="100"
-            width="120"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be837666c501410d9ee65805ea682178.xml#id-be837666c501410d9ee65805ea682178"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelReference"
           id="id-cafa17fe47764bc39b818ed2b47754bc">
         <bounds
             x="50"
@@ -112,6 +100,18 @@
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-f7a79951d027473d8ec5fc81574201c8.xml#id-f7a79951d027473d8ec5fc81574201c8"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-31033df1452d4d90aa3272972f108f80">
+        <bounds
+            x="50"
+            y="110"
+            width="120"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-6813e9ca72344cf1a891d32d80d133df.xml#id-6813e9ca72344cf1a891d32d80d133df"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -180,4 +180,7 @@
   <properties
       key="Publiceren"
       value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="eef8986b-35fe-4bac-9655-f821279f34f4"/>
 </archimate:ArchimateDiagramModel>

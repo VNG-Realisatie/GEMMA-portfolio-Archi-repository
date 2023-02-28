@@ -173,4 +173,7 @@
   <properties
       key="generate_view_param"
       value="{&#xA; &quot;action&quot;: &quot;GENERATE_MULTIPLE&quot;,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [&#xA;  &quot;access-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [],&#xA; &quot;graphDepth&quot;: 1,&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewName&quot;: &quot;Functioneel beheerder&quot;&#xA;}"/>
+  <properties
+      key="Object ID"
+      value="dd598ef9-b4bc-4b42-a560-59de746cfd15"/>
 </archimate:ArchimateDiagramModel>

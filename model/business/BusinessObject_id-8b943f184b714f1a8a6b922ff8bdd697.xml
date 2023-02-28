@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capabilities - generieke functies"
-    id="id-8b943f184b714f1a8a6b922ff8bdd697"/>
+    id="id-8b943f184b714f1a8a6b922ff8bdd697">
+  <properties
+      key="Object ID"
+      value="35cf804a-9d0a-4a46-8b01-1a44dc0411ef"/>
+</archimate:BusinessObject>

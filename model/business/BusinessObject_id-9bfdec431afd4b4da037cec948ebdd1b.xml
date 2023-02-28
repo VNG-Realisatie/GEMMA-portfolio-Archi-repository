@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatiearchitectuur generiek en per domein"
-    id="id-9bfdec431afd4b4da037cec948ebdd1b"/>
+    id="id-9bfdec431afd4b4da037cec948ebdd1b">
+  <properties
+      key="Object ID"
+      value="49c6fabe-0cde-4ed0-9016-48115a613d71"/>
+</archimate:BusinessObject>

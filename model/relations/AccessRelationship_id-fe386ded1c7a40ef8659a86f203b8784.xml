@@ -5,6 +5,9 @@
   <properties
       key="Type before conversion"
       value="aggregation-relationship"/>
+  <properties
+      key="Object ID"
+      value="601b7438-9178-4e21-a47e-a5731bbd2c82"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-0d47ad6ddf0d48988335fb441ad756fb.xml#id-0d47ad6ddf0d48988335fb441ad756fb"/>

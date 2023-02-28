@@ -4,9 +4,12 @@
     name="verwijzing"
     id="id-36655b7f53d14a01bb7fff0a70bb9237"
     directed="true">
+  <properties
+      key="Object ID"
+      value="038b2049-980b-45a3-b358-65057b8affc3"/>
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-889ee8c3.xml#id-889ee8c3"/>
+      href="BusinessObject_id-2c807215d5854c1cbc3ce90f70df82d7.xml#id-2c807215d5854c1cbc3ce90f70df82d7"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-95b765ce3ad541ecbaa5fde4abbd58ca.xml#id-95b765ce3ad541ecbaa5fde4abbd58ca"/>

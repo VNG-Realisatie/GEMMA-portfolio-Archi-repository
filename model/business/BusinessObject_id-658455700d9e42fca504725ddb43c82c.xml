@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Omnichannel"
     id="id-658455700d9e42fca504725ddb43c82c"
-    documentation="Inwoners en ondernemers maken gebruik van offline kanalen en digitale (online) kanalen. Om gemeenten ondersteuning te bieden bij keuzes over het inrichten van hun Omnichannel informatievoorziening is een referentiearchitectuur uitgewerkt. "/>
+    documentation="Inwoners en ondernemers maken gebruik van offline kanalen en digitale (online) kanalen. Om gemeenten ondersteuning te bieden bij keuzes over het inrichten van hun Omnichannel informatievoorziening is een referentiearchitectuur uitgewerkt. ">
+  <properties
+      key="Object ID"
+      value="b8e74a30-f74b-4a17-952c-c6b64f8f932c"/>
+</archimate:BusinessObject>

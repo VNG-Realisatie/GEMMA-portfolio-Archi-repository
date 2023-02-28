@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werken onder architectuur"
-    id="id-68375131eec8489199ac44eddb81dfb6"/>
+    id="id-68375131eec8489199ac44eddb81dfb6">
+  <properties
+      key="Object ID"
+      value="bad4feac-7ded-4feb-a809-1d5615e0229d"/>
+</archimate:BusinessProcess>

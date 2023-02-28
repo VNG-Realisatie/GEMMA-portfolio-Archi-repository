@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enterprise architectuur gemeente"
-    id="id-ecd2c74973b04997a2a51391055aaea5"/>
+    id="id-ecd2c74973b04997a2a51391055aaea5">
+  <properties
+      key="Object ID"
+      value="c95bee58-f557-4931-afe4-5b37c39eaa87"/>
+</archimate:BusinessObject>

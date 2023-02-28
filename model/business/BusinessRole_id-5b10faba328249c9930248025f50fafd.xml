@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VNG architect"
-    id="id-5b10faba328249c9930248025f50fafd"/>
+    id="id-5b10faba328249c9930248025f50fafd">
+  <properties
+      key="Object ID"
+      value="a5a88750-7c1d-44a2-af5c-8f0cfae1b6bf"/>
+</archimate:BusinessRole>

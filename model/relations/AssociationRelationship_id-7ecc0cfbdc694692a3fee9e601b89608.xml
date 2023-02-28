@@ -4,6 +4,9 @@
     name="verwijzing"
     id="id-7ecc0cfbdc694692a3fee9e601b89608"
     directed="true">
+  <properties
+      key="Object ID"
+      value="fa7c96e4-8f65-4ca1-aacc-147533ca76a4"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-f6c1a82a6eb54bc7949d4c167b9c73df.xml#id-f6c1a82a6eb54bc7949d4c167b9c73df"/>

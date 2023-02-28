@@ -5,4 +5,7 @@
   <properties
       key="URL"
       value="https://vng.nl/projecten/gemeentelijke-model-architectuur-gemma"/>
+  <properties
+      key="Object ID"
+      value="a33d765a-cd3b-48ba-9d20-21a9bb519c07"/>
 </archimate:BusinessObject>

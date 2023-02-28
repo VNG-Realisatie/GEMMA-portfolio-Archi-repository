@@ -37,4 +37,7 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-ecd2c74973b04997a2a51391055aaea5.xml#id-ecd2c74973b04997a2a51391055aaea5"/>
   </children>
+  <properties
+      key="Object ID"
+      value="b6d0a6b4-ce09-4de9-8074-3f14e7e39b8d"/>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,77 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA Informatiearchitectuur vs applicatie- en dataarchitectuur"
+    id="id-d0c1a33e51ba4699a7c155913a03eb7a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a0c66f8a9ddd4a74b18b19ae08e74b75"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c743f4216307477aa0e12b044722add7"
+        source="id-a0c66f8a9ddd4a74b18b19ae08e74b75"
+        target="id-00129b6514484733a3192e6639ea16d8">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-a32b4586fc1b47888aab5a7bed003bfc.xml#id-a32b4586fc1b47888aab5a7bed003bfc"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9439c2f34a124eb5aa614ab734020c8c"
+        source="id-a0c66f8a9ddd4a74b18b19ae08e74b75"
+        target="id-21be3802bfc048ecb0db47e91dcbaffc">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-9a865589f2924f6b8e4b8e0e80828ebe.xml#id-9a865589f2924f6b8e4b8e0e80828ebe"/>
+    </sourceConnections>
+    <bounds
+        x="140"
+        y="140"
+        width="385"
+        height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-00129b6514484733a3192e6639ea16d8"
+        targetConnections="id-c743f4216307477aa0e12b044722add7">
+      <bounds
+          x="24"
+          y="48"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-d412e39cf68246188556b1d43b279e86.xml#id-d412e39cf68246188556b1d43b279e86"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-21be3802bfc048ecb0db47e91dcbaffc"
+        targetConnections="id-9439c2f34a124eb5aa614ab734020c8c">
+      <bounds
+          x="204"
+          y="48"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-eb7d7dddbee448a9960269b09b29087a.xml#id-eb7d7dddbee448a9960269b09b29087a"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-4b4bd211a8bf4aa28e3b92fa0992b1f1.xml#id-4b4bd211a8bf4aa28e3b92fa0992b1f1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-146e508cf61d4af7acbc83f75ab13ad6"
+      textAlignment="1"
+      content="Binnen de GEMMA beschrijven we applicaties en data in samenhang als onderdeel van de informatiearchitectuur.&#xD;&#xA;Applicatie- en data-architectuur worden niet apart gemodelleerd.&#xD;&#xA;De begrippen 'applicatiearchitectuur' en 'data-architectuur' worden niet gebruikt binnen de GEMMA.">
+    <bounds
+        x="130"
+        y="30"
+        width="637"
+        height="85"/>
+  </children>
+  <properties
+      key="Object ID"
+      value="233b6185-30be-4f09-a248-7de48ce1e5fe"/>
+</archimate:ArchimateDiagramModel>

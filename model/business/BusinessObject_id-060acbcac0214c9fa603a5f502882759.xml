@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Issues"
     id="id-060acbcac0214c9fa603a5f502882759"
-    documentation="Melden van wensen, wijzigingsvoorstellen en fouten met betrekking tot de door VNGR beheerde architectuurmodellen en standaarden"/>
+    documentation="Melden van wensen, wijzigingsvoorstellen en fouten met betrekking tot de door VNGR beheerde architectuurmodellen en standaarden">
+  <properties
+      key="Object ID"
+      value="e9e39264-a8eb-45df-8bc4-a1932dcf8690"/>
+</archimate:BusinessObject>

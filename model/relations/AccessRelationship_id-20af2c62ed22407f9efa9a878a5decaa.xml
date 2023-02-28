@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-20af2c62ed22407f9efa9a878a5decaa"
     accessType="1">
+  <properties
+      key="Object ID"
+      value="6547bb99-73e1-47b0-9a0b-a733bdacadbd"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-f7960dae30f5442fabe628f5ec888a0c.xml#id-f7960dae30f5442fabe628f5ec888a0c"/>

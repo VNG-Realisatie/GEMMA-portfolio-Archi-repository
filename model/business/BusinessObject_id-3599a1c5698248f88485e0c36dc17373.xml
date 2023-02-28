@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Omnichannel"
     id="id-3599a1c5698248f88485e0c36dc17373"
-    documentation="Thema-architectuur die uitwerkt hoe gemeenten hun informatievoorziening zo kunnen inrichten dat burgers en bedrijven meerdere kanalen kunnen gebruiken waarbij het resultaat hetzelfe blijft"/>
+    documentation="Thema-architectuur die uitwerkt hoe gemeenten hun informatievoorziening zo kunnen inrichten dat burgers en bedrijven meerdere kanalen kunnen gebruiken waarbij het resultaat hetzelfe blijft">
+  <properties
+      key="Object ID"
+      value="6cda2629-84dc-462b-8803-c51ba402d77d"/>
+</archimate:BusinessObject>

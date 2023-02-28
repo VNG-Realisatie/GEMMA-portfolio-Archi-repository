@@ -536,4 +536,7 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-6692465db1db4044a1d694c44e39ed20.xml#id-6692465db1db4044a1d694c44e39ed20"/>
   </children>
+  <properties
+      key="Object ID"
+      value="778761f9-ede1-45bc-b0f3-71fe64ab888e"/>
 </archimate:ArchimateDiagramModel>

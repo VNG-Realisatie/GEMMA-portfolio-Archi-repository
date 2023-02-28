@@ -464,4 +464,7 @@
         xsi:type="archimate:Artifact"
         href="Artifact_id-e4953f6e950249b3a5a6b9498ddf3a41.xml#id-e4953f6e950249b3a5a6b9498ddf3a41"/>
   </children>
+  <properties
+      key="Object ID"
+      value="471c9119-b959-4033-95ae-a08771b5851d"/>
 </archimate:ArchimateDiagramModel>

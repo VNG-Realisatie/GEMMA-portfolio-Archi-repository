@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Producten en diensten"
-    id="id-7465eb101ed645ac828c1b3d76c0c745"/>
+    id="id-7465eb101ed645ac828c1b3d76c0c745">
+  <properties
+      key="Object ID"
+      value="6e5549e0-3c12-48de-a0c7-d2419738860b"/>
+</archimate:BusinessObject>

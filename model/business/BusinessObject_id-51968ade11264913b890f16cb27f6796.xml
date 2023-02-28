@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruik softwarepakketten"
-    id="id-51968ade11264913b890f16cb27f6796"/>
+    id="id-51968ade11264913b890f16cb27f6796">
+  <properties
+      key="Object ID"
+      value="828eccab-69c9-456e-99e6-61d3cc0bc76c"/>
+</archimate:BusinessObject>

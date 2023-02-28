@@ -646,4 +646,7 @@
   <properties
       key="Publiceren"
       value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="17ad772f-c308-4920-99e8-566adcfe5d84"/>
 </archimate:ArchimateDiagramModel>

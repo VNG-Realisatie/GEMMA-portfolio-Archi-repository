@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Privacy en Informatiebeveiliging"
     id="id-ba8c4755"
-    documentation="Een Informatiebeveiligingsarchitectuur is een voorschrijvende architectuur dat door middel van een set samenhangende modellen, principes, kaders, richtlijnen, risico's en maatregelen efficiënt en flexibel richting geeft aan de invulling van het informatiebeveiligingsbeleid van een organisatie."/>
+    documentation="Een Informatiebeveiligingsarchitectuur is een voorschrijvende architectuur dat door middel van een set samenhangende modellen, principes, kaders, richtlijnen, risico's en maatregelen efficiënt en flexibel richting geeft aan de invulling van het informatiebeveiligingsbeleid van een organisatie.">
+  <properties
+      key="Object ID"
+      value="60c9bef6-3c8a-4c7b-9642-f0479ee2643e"/>
+</archimate:BusinessObject>
