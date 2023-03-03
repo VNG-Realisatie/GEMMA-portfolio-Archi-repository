@@ -6,4 +6,10 @@
   <properties
       key="Object ID"
       value="0a17ea29-e5ca-44e4-a720-14d2e155b3f5"/>
+  <properties
+      key="Bedrijfsarchitectuur"
+      value="ja"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
 </archimate:BusinessObject>
