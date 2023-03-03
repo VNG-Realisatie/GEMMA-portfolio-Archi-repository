@@ -186,16 +186,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6a94968f301f47b295624610175ccbe6"
       targetConnections="id-c58388de7b4748ad90dea4ed91a3cf8b"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="770"
         y="90"
         width="201"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-529436ee0d994c968c5ad7efdffc2e27.xml#id-529436ee0d994c968c5ad7efdffc2e27"/>
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-5fefec76f88f41999d9b2edfba873ab8.xml#id-5fefec76f88f41999d9b2edfba873ab8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

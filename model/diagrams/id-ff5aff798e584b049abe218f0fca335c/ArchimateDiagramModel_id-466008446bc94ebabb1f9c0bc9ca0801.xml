@@ -123,16 +123,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-db32a6a60a2d46a19422b6ae4bc59c58"
       targetConnections="id-e6c4028101f947e5b752ec45b872bff7"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="770"
         y="10"
         width="201"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-529436ee0d994c968c5ad7efdffc2e27.xml#id-529436ee0d994c968c5ad7efdffc2e27"/>
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-5fefec76f88f41999d9b2edfba873ab8.xml#id-5fefec76f88f41999d9b2edfba873ab8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

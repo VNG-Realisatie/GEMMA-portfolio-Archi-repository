@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Omgevingswet"
-    id="id-ec5713478ec3418b9d31a6d3f76700f0"
-    documentation="Thema-architectuur voor gemeenten in relatie tot de Omgevingswet">
-  <properties
-      key="Object ID"
-      value="4f36dcef-5eb1-4eaf-91ee-0d2b3645929c"/>
-</archimate:BusinessObject>
