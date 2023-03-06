@@ -5,9 +5,6 @@
   <properties
       key="Object ID"
       value="fae1c02f-97e6-4c73-b268-3fd4c657a82f"/>
-  <properties
-      key="Type before conversion"
-      value="aggregation-relationship"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-57d329773b76459096348440e34c6866.xml#id-57d329773b76459096348440e34c6866"/>
