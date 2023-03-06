@@ -2193,9 +2193,6 @@
         href="Grouping_id-bb307521300844a5a0bd6ef1b82cdb56.xml#id-bb307521300844a5a0bd6ef1b82cdb56"/>
   </children>
   <properties
-      key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;LAYOUT&quot;,&#xA; &quot;debug&quot;: false,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [&#xA;  &quot;access-relationship&quot;,&#xA;  &quot;association-relationship&quot;&#xA; ],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;access-relationship&quot;,&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;access-relationship&quot;&#xA; ],&#xA; &quot;graphDepth&quot;: 1,&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;viewName&quot;: &quot;GEMMA portfolio verwijzingen&quot;&#xA;}"/>
-  <properties
       key="Object ID"
       value="88ba3b2f-81b0-4c1a-9456-5a5ded6f2310"/>
 </archimate:ArchimateDiagramModel>
