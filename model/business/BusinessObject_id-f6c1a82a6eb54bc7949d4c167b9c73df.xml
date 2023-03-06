@@ -10,9 +10,6 @@
       key="Standaarden"
       value="ja"/>
   <properties
-      key="Basisarchitectuur"
-      value="ja"/>
-  <properties
       key="GEMMA"
       value="nee"/>
 </archimate:BusinessObject>
