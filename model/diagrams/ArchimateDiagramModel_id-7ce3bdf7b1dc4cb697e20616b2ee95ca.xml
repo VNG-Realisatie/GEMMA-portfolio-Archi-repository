@@ -148,15 +148,15 @@
           height="711"/>
       <children
           xsi:type="archimate:DiagramModelReference"
-          id="id-68cc749908d341c2a89da8695826fc9d">
+          id="id-bde9de5fe1aa49cd88661106e9dac327">
         <bounds
             x="20"
-            y="50"
+            y="70"
             width="120"
             height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-be837666c501410d9ee65805ea682178.xml#id-be837666c501410d9ee65805ea682178"/>
+            href="ArchimateDiagramModel_id-6813e9ca72344cf1a891d32d80d133df.xml#id-6813e9ca72344cf1a891d32d80d133df"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessObject"

@@ -6,9 +6,9 @@
       key="Object ID"
       value="86a303d9-8d1d-40b3-9473-d3da76a18531"/>
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-4f039b2af4c14ac094cec8d216d3e507.xml#id-4f039b2af4c14ac094cec8d216d3e507"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-cb498abd313f4ba592a9df421c4d32d8.xml#id-cb498abd313f4ba592a9df421c4d32d8"/>
   <target
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-6692465db1db4044a1d694c44e39ed20.xml#id-6692465db1db4044a1d694c44e39ed20"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-57d329773b76459096348440e34c6866.xml#id-57d329773b76459096348440e34c6866"/>
 </archimate:AggregationRelationship>

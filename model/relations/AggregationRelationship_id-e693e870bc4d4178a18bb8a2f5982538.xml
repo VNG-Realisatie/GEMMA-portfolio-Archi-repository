@@ -6,8 +6,8 @@
       key="Object ID"
       value="4c15870a-e257-4939-9d8e-8e89bc395f39"/>
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-4975ecd7071f43bab687256b2d0dfaf2.xml#id-4975ecd7071f43bab687256b2d0dfaf2"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-62f5826d9b3a4740b431ec13be139099.xml#id-62f5826d9b3a4740b431ec13be139099"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-c07976f8b3604a32ab81f344d51a6a0e.xml#id-c07976f8b3604a32ab81f344d51a6a0e"/>

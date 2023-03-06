@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modellen en patronen"
+    name="Patronen"
     id="id-6255efc824b64a8eb2679a3a98ef099b">
   <properties
       key="Object ID"
@@ -11,4 +11,16 @@
   <properties
       key="Basisarchitectuur"
       value="ja"/>
+  <properties
+      key="GEMMA"
+      value="ja"/>
+  <properties
+      key="Thema-architecturen"
+      value="nee"/>
+  <properties
+      key="Algemene producten"
+      value="nee"/>
+  <properties
+      key="Standaarden"
+      value="nee"/>
 </archimate:BusinessObject>

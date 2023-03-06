@@ -25,13 +25,12 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7740d0b6deda4026b1a17ae8b2e3b4d1"
         targetConnections="id-01c2a54af628495eb5bad3848d7409a0"
-        textAlignment="1"
-        type="1">
+        textAlignment="1">
       <bounds
           x="20"
-          y="30"
+          y="40"
           width="241"
-          height="331"/>
+          height="311"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-76dba218164f4772874d2bb76f8f641a"
@@ -56,16 +55,16 @@
         </sourceConnections>
         <bounds
             x="20"
-            y="30"
+            y="40"
             width="201"
-            height="291"/>
+            height="251"/>
         <archimateElement
             xsi:type="archimate:BusinessObject"
             href="BusinessObject_4a89ce6b.xml#4a89ce6b"/>
       </children>
       <archimateElement
-          xsi:type="archimate:Grouping"
-          href="Grouping_id-4975ecd7071f43bab687256b2d0dfaf2.xml#id-4975ecd7071f43bab687256b2d0dfaf2"/>
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-62f5826d9b3a4740b431ec13be139099.xml#id-62f5826d9b3a4740b431ec13be139099"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"

@@ -6,4 +6,19 @@
   <properties
       key="Object ID"
       value="fad2c215-3046-4110-a2cb-6f4ff0953f85"/>
+  <properties
+      key="GEMMA"
+      value="ja"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Thema-architecturen"
+      value="nee"/>
+  <properties
+      key="Algemene producten"
+      value="nee"/>
+  <properties
+      key="Standaarden"
+      value="nee"/>
 </archimate:BusinessObject>

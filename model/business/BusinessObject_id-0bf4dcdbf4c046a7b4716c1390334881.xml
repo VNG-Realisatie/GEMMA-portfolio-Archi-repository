@@ -8,5 +8,17 @@
       value="3cefb89a-4017-4158-8044-86132a58155d"/>
   <properties
       key="Basisarchitectuur"
+      value="nee"/>
+  <properties
+      key="GEMMA"
       value="ja"/>
+  <properties
+      key="Thema-architecturen"
+      value="nee"/>
+  <properties
+      key="Algemene producten"
+      value="ja"/>
+  <properties
+      key="Standaarden"
+      value="nee"/>
 </archimate:BusinessObject>

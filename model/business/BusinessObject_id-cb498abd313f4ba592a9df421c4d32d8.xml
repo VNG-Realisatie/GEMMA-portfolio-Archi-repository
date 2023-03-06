@@ -1,26 +1,23 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Architectuurvisie"
-    id="id-0f4ff67804c04be78f0bfa5cc4751918"
-    documentation="Hoogover beschrijving van de gemaakte fundamentele keuzes voor ontwikkeling van de GEMMA">
+    name="Algemene producten"
+    id="id-cb498abd313f4ba592a9df421c4d32d8"
+    documentation="Groep van producten die relevant zijn voor zowel de basisarchitectuur producten als de thema-architecturen">
   <properties
       key="Object ID"
-      value="3837577c-f078-4860-b7ee-0d8c01fda8e7"/>
-  <properties
-      key="Strategie en motivatie"
-      value="ja"/>
-  <properties
-      key="Basisarchitectuur"
-      value="ja"/>
+      value="a4d39187-6cb4-4d61-ae1b-43dac46759d3"/>
   <properties
       key="GEMMA"
       value="ja"/>
+  <properties
+      key="Basisarchitectuur"
+      value="nee"/>
   <properties
       key="Thema-architecturen"
       value="nee"/>
   <properties
       key="Algemene producten"
-      value="nee"/>
+      value="ja"/>
   <properties
       key="Standaarden"
       value="nee"/>

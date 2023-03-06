@@ -57,8 +57,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-16764b9205ba47fba7337bfb56bfc161"
         targetConnections="id-5dbe078ec003413da494ef87d59957a7"
-        textAlignment="1"
-        type="1">
+        textAlignment="1">
       <bounds
           x="40"
           y="30"
@@ -78,8 +77,8 @@
             href="BusinessObject_id-889ee8c3.xml#id-889ee8c3"/>
       </children>
       <archimateElement
-          xsi:type="archimate:Grouping"
-          href="Grouping_id-4975ecd7071f43bab687256b2d0dfaf2.xml#id-4975ecd7071f43bab687256b2d0dfaf2"/>
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-62f5826d9b3a4740b431ec13be139099.xml#id-62f5826d9b3a4740b431ec13be139099"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"

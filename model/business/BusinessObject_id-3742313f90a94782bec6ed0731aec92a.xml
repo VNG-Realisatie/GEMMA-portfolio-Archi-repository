@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verplichte / aanbevolen standaarden"
+    name="Gebruik van standaarden"
     id="id-3742313f90a94782bec6ed0731aec92a"
     documentation="In de GEMMA wordt vastgelegd voor welke referentiecomponenten een standaard verplicht of aanbevolen is. &#xA;&#xA;De verplichte en aanbevolen standaarden kunnen door gemeenten worden gebruikt bij het opstellen van een pakket van eisen voor het aanschaffen van softwarepakketen.">
   <properties
@@ -11,5 +11,17 @@
       value="ja"/>
   <properties
       key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="GEMMA"
+      value="ja"/>
+  <properties
+      key="Thema-architecturen"
+      value="nee"/>
+  <properties
+      key="Algemene producten"
+      value="nee"/>
+  <properties
+      key="Standaarden"
       value="ja"/>
 </archimate:BusinessObject>
