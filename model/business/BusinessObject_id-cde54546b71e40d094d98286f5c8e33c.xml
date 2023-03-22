@@ -3,24 +3,12 @@
     name="Kwaliteitsdoelen"
     id="id-cde54546b71e40d094d98286f5c8e33c">
   <properties
-      key="Strategie en motivatie"
-      value="ja"/>
+      key="Object ID"
+      value="8b95e66a-9e79-430b-b479-d26ff055deeb"/>
   <properties
       key="Basisarchitectuur"
       value="ja"/>
   <properties
-      key="Object ID"
-      value="8b95e66a-9e79-430b-b479-d26ff055deeb"/>
-  <properties
-      key="GEMMA"
+      key="Strategie en motivatie"
       value="ja"/>
-  <properties
-      key="Thema-architecturen"
-      value="nee"/>
-  <properties
-      key="Algemene producten"
-      value="nee"/>
-  <properties
-      key="Standaarden"
-      value="nee"/>
 </archimate:BusinessObject>
