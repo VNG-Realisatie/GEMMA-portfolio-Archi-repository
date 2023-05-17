@@ -294,4 +294,10 @@
         xsi:type="archimate:Artifact"
         href="Artifact_id-ea3194ad521e4785aa52cfe4a60f8063.xml#id-ea3194ad521e4785aa52cfe4a60f8063"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="1c933cda-b453-4283-b3f0-4913e50e00e1"/>
 </archimate:ArchimateDiagramModel>

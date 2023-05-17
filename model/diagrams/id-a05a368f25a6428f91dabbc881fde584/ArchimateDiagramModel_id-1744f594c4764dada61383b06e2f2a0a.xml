@@ -642,4 +642,10 @@
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_id-23475c0f3de54f04b3fc6ebb506f204e.xml#id-23475c0f3de54f04b3fc6ebb506f204e"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="621d43ba-7ce4-4825-a108-5349916481c3"/>
 </archimate:ArchimateDiagramModel>

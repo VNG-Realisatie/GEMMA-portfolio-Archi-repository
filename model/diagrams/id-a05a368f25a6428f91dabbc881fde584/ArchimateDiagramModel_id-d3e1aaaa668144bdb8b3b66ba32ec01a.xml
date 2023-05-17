@@ -328,4 +328,10 @@
         xsi:type="archimate:Device"
         href="Device_id-40507adecd394289ac4a111b493344a9.xml#id-40507adecd394289ac4a111b493344a9"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="1bc573f6-597b-4346-aa79-19286bec5aed"/>
 </archimate:ArchimateDiagramModel>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ArchiMate-model in SmartCore format"
     id="id-6c56ad48ab0c471da40e42de1139cdf3"
-    documentation="Geïmporteerde ArchiMate-objecten omgezet in pagina's met eigenschappen uit het SmartCoreArchiMate kennismodel"/>
+    documentation="Geïmporteerde ArchiMate-objecten omgezet in pagina's met eigenschappen uit het SmartCoreArchiMate kennismodel">
+  <properties
+      key="Object ID"
+      value="c7debe6a-9895-4e9d-89e5-86155dbca171"/>
+</archimate:DataObject>
