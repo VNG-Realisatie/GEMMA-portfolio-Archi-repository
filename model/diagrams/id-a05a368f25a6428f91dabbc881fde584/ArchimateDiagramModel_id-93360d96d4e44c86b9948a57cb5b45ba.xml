@@ -525,4 +525,7 @@
   <properties
       key="Object ID"
       value="a76a5fd2-d8ed-438f-8fe3-c514c30508a5"/>
+  <properties
+      key="Viewtype"
+      value="Beheer"/>
 </archimate:ArchimateDiagramModel>
