@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA Kennismodel"
-    id="id-b6af0bc1"
-    documentation="Een kennismodel of metamodel beschrijft de architectuurobjecten die worden beschreven en hun onderlinge samenhang. Bijvoorbeeld applicatieservices of applicatiefuncties.&#xA;&#xA;Het GEMMA 2.0 kennismodel is de invulling van de ArchiMate conventie voor de informatievoorziening van het gemeentelijk domein. Het kennismodel fungeert tevens als basis voor de inrichting van deze wiki. Hierdoor wordt de kennis uit GEMMA 2.0 semantisch en kan als zodanig beter beheerbaar en toegankelijk gemaakt.&#xA;&#xA;Bron: GEMMA Online&#xA;&#xA;&#xA;Zie ook: [[Toelichting op kennismodel]]"/>

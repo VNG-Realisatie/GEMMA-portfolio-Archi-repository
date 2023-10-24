@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Enterprise architectuur product (of Thema)"
-    id="id-eeedf7c8"
-    documentation="Dit is een abstractie van de GEMMA enterprise architectuur onderdelen, zoals bijvoorbeeld de Procesarchitectuur, Informatiemodel, Domeinarchitectuur Ruimte of Aspectarchitectuur Informatiebeveiligin. Overinges kunnen we deze indeling ook toepassen op Thema's. Denk aan de thema's Informatie- en architefbeheer of Verbinden. Hierbij is het wel van belang dat er binnen thema's geen nieuwe Elementen of relaties ontstaan. Patronen en Views kunnen wel op basis van een thema ontwikkeld worden."/>

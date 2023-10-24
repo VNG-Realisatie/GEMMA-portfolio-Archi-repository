@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aspectarchitectuur"
-    id="id-7743ba81"
-    documentation="In tegenstelling tot een domeinarchitectuur die een volledige enterprise architectuur van een bepaald domein beschrijft, beschrijft een aspectarchitectuur een bepaald onderwerp/aspect binnen de gehele enterprise of domeinarchitectuur, bijvoorbeeld informatiebeveiliging, of beheer."/>

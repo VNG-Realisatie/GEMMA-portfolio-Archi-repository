@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Projectarchitectuur"
-    id="c19111a3"
-    documentation="Projectarchitecturen worden conform GEMMA principes en richtlijnen ingericht. Architectuurbouwblokken (zoals bij bijvoorbeeld referentiecomponenten, bedrijfsprocessen, applicatiefuncties) uit de GEMMA kern worden zoveel als mogelijk hergebruikt in deze projectarchitecturen. Binnen projectarchitecturen kunnen zoals aangegeven processen en referentiecomponenten qua inrichting afwijken van deze elementen in de GEMMA.&#xD;&#xA;&#xD;&#xA;Bron: [[GEMMA Kern en Projectarchitecturen]]"/>

@@ -1,0 +1,44 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werken onder architectuur"
+    id="id-8ef1ed7653a940028d6cc7e3078b8e93">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-725d864ef06a430da187926e78451dd9">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-02ff9119f5fb4e42935449beeee36716"
+        source="id-725d864ef06a430da187926e78451dd9"
+        target="id-76d99d75b2a8492dbf92bec12466d24c">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-537422b1bea44e168b2febbb4de4baa2.xml#id-537422b1bea44e168b2febbb4de4baa2"/>
+    </sourceConnections>
+    <bounds
+        x="140"
+        y="110"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-68375131eec8489199ac44eddb81dfb6.xml#id-68375131eec8489199ac44eddb81dfb6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-76d99d75b2a8492dbf92bec12466d24c"
+      targetConnections="id-02ff9119f5fb4e42935449beeee36716"
+      type="1">
+    <bounds
+        x="150"
+        y="260"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-ecd2c74973b04997a2a51391055aaea5.xml#id-ecd2c74973b04997a2a51391055aaea5"/>
+  </children>
+  <properties
+      key="Object ID"
+      value="b6d0a6b4-ce09-4de9-8074-3f14e7e39b8d"/>
+</archimate:ArchimateDiagramModel>

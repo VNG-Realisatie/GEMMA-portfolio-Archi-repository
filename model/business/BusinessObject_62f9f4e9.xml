@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensmanagement"
     id="62f9f4e9"
-    documentation="Het geheel van activiteiten om in de gemeente op het juiste moment over de juiste gegevens van de juiste kwaliteit te beschikken."/>
+    documentation="Het geheel van activiteiten om in de gemeente op het juiste moment over de juiste gegevens van de juiste kwaliteit te beschikken.">
+  <properties
+      key="Object ID"
+      value="41cd1254-cb22-4d0f-aa9a-0cec3fd48ae5"/>
+  <properties
+      key="Thema-architecturen"
+      value="ja"/>
+</archimate:BusinessObject>

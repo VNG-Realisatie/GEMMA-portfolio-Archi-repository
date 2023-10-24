@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Softwarecatalogus"
-    id="id-b5066094"
-    documentation="De GEMMA Softwarecatalogus is een online informatiesysteem waarin het (verwachte) softwareaanbod staat van ruim honderd ICT-leveranciers die met KING een convenant zijn aangegaan. Per softwareproduct is aangegeven wat de globale functionaliteit is, wat de productplanning is en welke standaarden ondersteund worden. Om aan te tonen dat een software product aan de StUF standaard voldoet dient een leverancier in de softwarecatalogus aan te geven dat er een succesvolle compliancy test is uitgevoerd en moet er een link opgenomen worden naar een foutloos testrapport uit het StUF Testplatform. Indien er een testset beschikbaar is dan dient de leverancier de relevante testen uit deze testset uit te voeren als ‘Compliancy test’.&#xA;&#xA;&#xA;Bron: GEMMA Softwarecatalogus"/>

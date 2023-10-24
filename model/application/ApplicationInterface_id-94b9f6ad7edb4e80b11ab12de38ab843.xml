@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VNG projecten online"
+    id="id-94b9f6ad7edb4e80b11ab12de38ab843"
+    documentation="Publicatieomgeving voor de VNG projecten met een sterke architectuurcomponent">
+  <properties
+      key="Object ID"
+      value="08c26591-755b-4be2-ab77-d74576b17adf"/>
+</archimate:ApplicationInterface>

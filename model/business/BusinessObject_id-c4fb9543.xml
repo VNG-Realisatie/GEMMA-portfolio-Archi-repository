@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Domeinarchitectuur"
-    id="id-c4fb9543"
-    documentation="In grote organisaties is de omvang van de enterprise architectuur dermate complex, dat een goede beheersbaarheid van transformatieprogramma’s onmogelijk wordt. In dergelijke situaties is de kloof tussen enterprise architectuur en solution architectuur niet in één keer te overbruggen. Deze organisaties definiëren in de enterprise architectuur domeinen waarbinnen de verdere transformaties worden uitgewerkt in de domein architectuur.&#xA; &#xA;De domeinarchitectuur zit qua diepgang en scope dus tussen de solution architectuur en de enterprise architectuur in. Werk je met het architectuurraamwerk TOGAF dan komt de term domeinarchitectuur overeen met de zogenaamde 'segment architecture'.&#xA;&#xA;Bron: DYA/TOGAF&#xA;&#xA;Binnen KING onderscheiden we de domeinarchitecturen:&#xA;* Sociaal&#xA;* Ruimtelijk&#xA;* Dienstverlening&#xA;* Openbare orde en veiligheid&#xA;* Bestuur en &#xD;&#xA;* Ondersteuning"/>
