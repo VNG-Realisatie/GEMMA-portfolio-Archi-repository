@@ -1117,7 +1117,8 @@
               xsi:type="archimate:DiagramModelArchimateObject"
               id="id-44683daae95848ed89d844f0e8d1c812"
               targetConnections="id-6d8bb2aa4fc443dcb6ab7cc6de55d40e"
-              fillColor="#ffffb5"
+              lineColor="#5c5c5c"
+              fillColor="#e7ebeb"
               type="1">
             <bounds
                 x="20"
