@@ -186,7 +186,7 @@
         x="20"
         y="160"
         width="311"
-        height="61"/>
+        height="81"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6c3f0b0aa24b47b5847030419d38be0f"
@@ -204,7 +204,7 @@
           x="10"
           y="20"
           width="121"
-          height="31"/>
+          height="51"/>
       <archimateElement
           xsi:type="archimate:Artifact"
           href="Artifact_id-c5e6d1cc92b440b1abe0335c2765b7ca.xml#id-c5e6d1cc92b440b1abe0335c2765b7ca"/>
@@ -226,7 +226,7 @@
           x="150"
           y="20"
           width="151"
-          height="31"/>
+          height="51"/>
       <archimateElement
           xsi:type="archimate:Artifact"
           href="Artifact_id-8a8e5db5502b43de8eba85f83342e9b8.xml#id-8a8e5db5502b43de8eba85f83342e9b8"/>
@@ -296,7 +296,7 @@
         x="350"
         y="160"
         width="141"
-        height="61"/>
+        height="81"/>
     <archimateElement
         xsi:type="archimate:Artifact"
         href="Artifact_id-b21104b151264083a3eae5d36fa17bfa.xml#id-b21104b151264083a3eae5d36fa17bfa"/>
@@ -327,7 +327,7 @@
         x="510"
         y="160"
         width="301"
-        height="61"/>
+        height="81"/>
     <archimateElement
         xsi:type="archimate:Artifact"
         href="Artifact_id-faf1a876a49d464886fcb3f11a1fcc4e.xml#id-faf1a876a49d464886fcb3f11a1fcc4e"/>
