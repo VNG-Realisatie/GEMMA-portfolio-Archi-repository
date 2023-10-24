@@ -27,8 +27,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-76d99d75b2a8492dbf92bec12466d24c"
-      targetConnections="id-02ff9119f5fb4e42935449beeee36716"
-      type="1">
+      targetConnections="id-02ff9119f5fb4e42935449beeee36716">
     <bounds
         x="150"
         y="260"

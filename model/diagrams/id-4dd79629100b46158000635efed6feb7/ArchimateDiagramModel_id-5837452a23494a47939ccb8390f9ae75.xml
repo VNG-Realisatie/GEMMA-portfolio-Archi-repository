@@ -6,8 +6,7 @@
     documentation="View genereated with these settings and selections&#xA;&#xA;Parameter: &#xA;{&#xA;  &quot;action&quot;: &quot;GENERATE_SINGLE&quot;,&#xA;  &quot;graphDepth&quot;: 1,&#xA;  &quot;includeElementType&quot;: [],&#xA;  &quot;includeRelationType&quot;: [],&#xA;  &quot;layoutReversed&quot;: [&#xA;    &quot;realization-relationship&quot;,&#xA;    &quot;serving-relationship&quot;,&#xA;    &quot;specialization-relationship&quot;&#xA;  ],&#xA;  &quot;layoutNested&quot;: [],&#xA;  &quot;graphDirection&quot;: &quot;LR&quot;,&#xA;  &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA;  &quot;nodeWidth&quot;: 200,&#xA;  &quot;nodeHeight&quot;: 60,&#xA;  &quot;hSep&quot;: 20,&#xA;  &quot;vSep&quot;: 180,&#xA;  &quot;debug&quot;: true,&#xA;  &quot;viewName&quot;: &quot;Werken onder architectuur&quot;&#xA;}&#xA;&#xA;Selection: &#xA;[&#xA;  &quot;business-object: Werken onder architectuur&quot;&#xA;]&#xA;&#xA;Result filtered elements: &#xA;[&#xA;  &quot;business-object: Werken onder architectuur&quot;&#xA;]">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7ce993b347744b648db7c8af7cdd3576"
-      type="1">
+      id="id-7ce993b347744b648db7c8af7cdd3576">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-01c2a54af628495eb5bad3848d7409a0"
@@ -26,8 +25,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7740d0b6deda4026b1a17ae8b2e3b4d1"
         targetConnections="id-01c2a54af628495eb5bad3848d7409a0"
-        textAlignment="1"
-        type="1">
+        textAlignment="1">
       <bounds
           x="20"
           y="40"
@@ -36,8 +34,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-76dba218164f4772874d2bb76f8f641a"
-          targetConnections="id-af38f42caa9e486c9f95dff91c0a0b73 id-b79938f23a1349e0b54e18f8fc34cd26 id-c2ec39cf0d52427498a62f7639496168 id-d5c14342fa3544af994da94e140ef792"
-          type="1">
+          targetConnections="id-af38f42caa9e486c9f95dff91c0a0b73 id-b79938f23a1349e0b54e18f8fc34cd26 id-c2ec39cf0d52427498a62f7639496168 id-d5c14342fa3544af994da94e140ef792">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-a72651b23ca64241ba9dbe8abceef893"
@@ -76,8 +73,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-34d5e6c98dd044f4885cc094eecb92b5"
-      targetConnections="id-a72651b23ca64241ba9dbe8abceef893"
-      type="1">
+      targetConnections="id-a72651b23ca64241ba9dbe8abceef893">
     <bounds
         x="740"
         y="120"
@@ -90,8 +86,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-39d088b313fc4e66848e6b37f6360546"
-      targetConnections="id-669a5aa3eccd4788b474fe774e20df42"
-      type="1">
+      targetConnections="id-669a5aa3eccd4788b474fe774e20df42">
     <bounds
         x="740"
         y="240"
