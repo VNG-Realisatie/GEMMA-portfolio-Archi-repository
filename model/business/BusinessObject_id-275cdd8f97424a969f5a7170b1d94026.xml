@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA bedrijfsobject"
+    id="id-275cdd8f97424a969f5a7170b1d94026"
+    documentation="Kopie van GGM data-object&#xD;&#xA;- ggm-guid&#xD;&#xA;&#xD;&#xA;Van GEMMA&#xD;&#xA;-Object ID">
+  <properties
+      key="ggm-guid"/>
+  <properties
+      key="Object ID"/>
+</archimate:BusinessObject>
