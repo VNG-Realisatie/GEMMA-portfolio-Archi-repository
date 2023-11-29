@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sync script met GGM mapping"
-    id="id-c487919563bd4d928410db3c29bab491"/>
+    id="id-c487919563bd4d928410db3c29bab491">
+  <properties
+      key="Object ID"
+      value="77eefaa3-d935-4ff5-8b5c-d099319e5992"/>
+</archimate:ApplicationFunction>

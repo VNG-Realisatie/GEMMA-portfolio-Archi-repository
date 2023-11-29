@@ -1,4 +1,8 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GGM-EA-to-Archi-csv repository"
-    id="id-a9ea17e09fde4739bb29d4cd6cba28d7"/>
+    id="id-a9ea17e09fde4739bb29d4cd6cba28d7">
+  <properties
+      key="Object ID"
+      value="bef6f073-3ad6-4180-8727-6d0453f73787"/>
+</archimate:Artifact>

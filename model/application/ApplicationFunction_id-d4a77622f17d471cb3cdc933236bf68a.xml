@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="saveProjectmodel"
-    id="id-d4a77622f17d471cb3cdc933236bf68a"/>
+    id="id-d4a77622f17d471cb3cdc933236bf68a">
+  <properties
+      key="Object ID"
+      value="ca34986a-beee-4e54-95c1-f10214503842"/>
+</archimate:ApplicationFunction>

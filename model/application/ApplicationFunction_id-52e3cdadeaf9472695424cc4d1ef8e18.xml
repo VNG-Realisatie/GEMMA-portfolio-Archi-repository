@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Import another model"
-    id="id-52e3cdadeaf9472695424cc4d1ef8e18"/>
+    id="id-52e3cdadeaf9472695424cc4d1ef8e18">
+  <properties
+      key="Object ID"
+      value="6fd7370b-525d-4697-95fb-86968301fd2c"/>
+</archimate:ApplicationFunction>
