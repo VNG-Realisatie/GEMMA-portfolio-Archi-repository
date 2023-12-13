@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GGM koppeling met Archi scenarios"
+    name="GGM-GEMMA koppeling scenarios"
     id="id-5eac5de4ee994aa7a2f35ed85159efdf">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -46,15 +46,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fde67f1eb937463b921bb624fbd06b88"
         targetConnections="id-bc273457b194498e9f786856fe092dbe">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-c24866107fc14fe38548c376bd9a77f2"
-          source="id-fde67f1eb937463b921bb624fbd06b88"
-          target="id-abcad8723a0d4834833d07da3da815c1">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-c9e3c5e4b818474996be44d2e4091f5b.xml#id-c9e3c5e4b818474996be44d2e4091f5b"/>
-      </sourceConnections>
       <bounds
           x="30"
           y="40"
@@ -84,7 +75,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-abcad8723a0d4834833d07da3da815c1"
-      targetConnections="id-b96c3470857e488398e1d28684d38d29 id-c24866107fc14fe38548c376bd9a77f2">
+      targetConnections="id-b96c3470857e488398e1d28684d38d29">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bb887c80dee84fe09e6b1a8ca2966be2"
@@ -320,15 +311,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ff17b4982de64b3c8b4e6e016b827512"
         targetConnections="id-8839d47eb75049b08dd5a26d1ca9bdaf">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-b8a183ec7f40496f887560501b1fcbc7"
-          source="id-ff17b4982de64b3c8b4e6e016b827512"
-          target="id-b7d27eaee4da44ae8c6e53a1cb9ee6d3">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-c9e3c5e4b818474996be44d2e4091f5b.xml#id-c9e3c5e4b818474996be44d2e4091f5b"/>
-      </sourceConnections>
       <bounds
           x="30"
           y="40"
@@ -358,7 +340,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b7d27eaee4da44ae8c6e53a1cb9ee6d3"
-      targetConnections="id-f63c177d3ce04ac68e897626568c41fb id-b8a183ec7f40496f887560501b1fcbc7">
+      targetConnections="id-f63c177d3ce04ac68e897626568c41fb">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-726b881166b7423e956e4eb8d32002df"
