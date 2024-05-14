@@ -5,9 +5,6 @@
     purpose="De verzameling van (architectuur)producten binnen de GEMMA"
     version="5.0.0">
   <properties
-      key="Versie"
-      value="0.9"/>
-  <properties
       key="Architectuurtool"
       value="Archi"/>
   <properties
