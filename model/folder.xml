@@ -13,4 +13,7 @@
   <properties
       key="Publiceren"
       value="GEMMA Online en redactie"/>
+  <properties
+      key="Release"
+      value="2024-05-27"/>
 </archimate:ArchimateModel>
