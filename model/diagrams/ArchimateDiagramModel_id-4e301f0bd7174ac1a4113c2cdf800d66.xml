@@ -244,7 +244,7 @@
           </sourceConnections>
           <bounds
               x="40"
-              y="160"
+              y="48"
               width="251"
               height="311"/>
           <children
@@ -310,7 +310,7 @@
           </sourceConnections>
           <bounds
               x="40"
-              y="40"
+              y="376"
               width="251"
               height="101"/>
           <children

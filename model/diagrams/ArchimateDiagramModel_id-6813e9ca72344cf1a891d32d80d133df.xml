@@ -105,8 +105,8 @@
             href="AggregationRelationship_b0755af4.xml#b0755af4"/>
       </sourceConnections>
       <bounds
-          x="630"
-          y="230"
+          x="626"
+          y="40"
           width="361"
           height="681"/>
       <children
@@ -262,8 +262,8 @@
             href="AggregationRelationship_id-04a8c5a4b3c94805a830259cf74c41e5.xml#id-04a8c5a4b3c94805a830259cf74c41e5"/>
       </sourceConnections>
       <bounds
-          x="20"
-          y="230"
+          x="16"
+          y="40"
           width="591"
           height="681"/>
       <children
@@ -745,8 +745,8 @@
             href="AggregationRelationship_id-fa8ae2ec21134286a83b5c864c48fb57.xml#id-fa8ae2ec21134286a83b5c864c48fb57"/>
       </sourceConnections>
       <bounds
-          x="20"
-          y="40"
+          x="16"
+          y="736"
           width="971"
           height="173"/>
       <children
