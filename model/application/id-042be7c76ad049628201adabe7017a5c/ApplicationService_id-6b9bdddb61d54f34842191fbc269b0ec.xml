@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Koppelingendiagram"
+    name="Tonen koppelingendiagram"
     id="id-6b9bdddb61d54f34842191fbc269b0ec">
   <properties
       key="Latest Sync Date"

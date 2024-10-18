@@ -1,7 +1,7 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Databasetoegang Management Informatietool"
-    id="id-77f161a170824226bb66f91de49140f7">
+    name="Exporteren"
+    id="id-12d25e6e8f9d44fb9265d568dad37f75">
   <properties
       key="Latest Sync Date"
       value="16/10/2024 10:26:13"/>
