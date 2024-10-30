@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kenniscentrum architectuur overzicht"
+    name="KCA portfolio"
     id="id-66ad630e031f4e5ebbb22f32b35462ef"
     documentation="Op deze view staat het GEMMA porfolio nader toegelicht.">
   <children
@@ -75,9 +75,9 @@
           xsi:type="archimate:DiagramModelReference"
           id="id-8c8fd383e7cf4ca2bf53521d3b70018a">
         <bounds
-            x="50"
+            x="20"
             y="160"
-            width="120"
+            width="181"
             height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
@@ -87,9 +87,9 @@
           xsi:type="archimate:DiagramModelReference"
           id="id-31033df1452d4d90aa3272972f108f80">
         <bounds
-            x="50"
+            x="20"
             y="80"
-            width="120"
+            width="181"
             height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"

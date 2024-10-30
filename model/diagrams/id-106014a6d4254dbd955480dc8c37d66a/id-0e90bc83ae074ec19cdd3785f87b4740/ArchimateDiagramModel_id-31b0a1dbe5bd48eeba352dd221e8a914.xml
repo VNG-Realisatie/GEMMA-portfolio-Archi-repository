@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GGM-GEMMA kennismodel"
+    name="GEMMA-GGM kennismodel"
     id="id-31b0a1dbe5bd48eeba352dd221e8a914">
   <children
       xsi:type="archimate:DiagramModelGroup"
