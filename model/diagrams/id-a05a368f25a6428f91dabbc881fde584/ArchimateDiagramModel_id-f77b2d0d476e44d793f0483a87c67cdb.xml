@@ -2,14 +2,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Koppeling GEMMA-GGM"
-    id="id-f77b2d0d476e44d793f0483a87c67cdb">
+    id="id-f77b2d0d476e44d793f0483a87c67cdb"
+    documentation="De GGM-community stelt een CSV-bestand op met de GGM-objecten en relaties. Dit bestand wordt door VNG KCA ingelezen en verwerkt in de GEMMA. De resulterende bedrijfsobjecten worden vervolgens in een CSV-bestand teruggeleverd.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-24cc7389f18e4638b31486be2f9a9188"
       targetConnections="id-83dcdfc905884e47ba107a9dee29e9bb id-691d8769ecf3439d801d90a3672cc6bf">
     <bounds
-        x="700"
-        y="140"
+        x="640"
+        y="110"
         width="171"
         height="61"/>
     <archimateElement
@@ -24,7 +25,7 @@
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="640"
+        x="700"
         y="220"
         width="171"
         height="61"/>
@@ -299,7 +300,7 @@
         x="20"
         y="20"
         width="590"
-        height="640"/>
+        height="661"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-18cf0a620d8d4c84ba5d0d67064a4c00">
@@ -438,7 +439,7 @@
           value="false"/>
       <bounds
           x="20"
-          y="550"
+          y="580"
           width="531"
           height="61"/>
       <archimateElement

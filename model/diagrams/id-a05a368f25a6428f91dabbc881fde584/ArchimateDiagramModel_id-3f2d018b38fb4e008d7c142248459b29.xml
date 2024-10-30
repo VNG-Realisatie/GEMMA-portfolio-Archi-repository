@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PvE SWC"
+    name="Softwarecatalogus Pakket van Eisen"
     id="id-3f2d018b38fb4e008d7c142248459b29">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -1862,4 +1862,7 @@
   <properties
       key="generate_view_param"
       value="{&#xA; &quot;action&quot;: &quot;Layout&quot;,&#xA; &quot;graphDepth&quot;: 1,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;aggregation-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutCircular&quot;: false,&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 40,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;debug&quot;: false,&#xA; &quot;excludeFromView&quot;: false,&#xA; &quot;viewName&quot;: &quot;PvE SWC&quot;,&#xA; &quot;viewNameSuffix&quot;: &quot;&quot;,&#xA; &quot;viewFolder&quot;: &quot;&quot;&#xA;}"/>
+  <properties
+      key="Object ID"
+      value="565e6ea7-436a-4d07-824e-f556a9a8db14"/>
 </archimate:ArchimateDiagramModel>

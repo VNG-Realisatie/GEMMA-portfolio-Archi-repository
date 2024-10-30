@@ -8,4 +8,7 @@
   <properties
       key="Kolom"
       value="Functionaliteit"/>
+  <properties
+      key="Object ID"
+      value="bd75c8c2-7a4c-436e-b387-ce3f1bc2d0b7"/>
 </archimate:ApplicationService>

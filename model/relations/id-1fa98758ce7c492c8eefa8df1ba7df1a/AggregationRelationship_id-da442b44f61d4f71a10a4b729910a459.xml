@@ -5,6 +5,9 @@
   <properties
       key="Latest Sync Date"
       value="16/10/2024 10:26:13"/>
+  <properties
+      key="Object ID"
+      value="5201c113-1bfd-4dc8-8b3f-02a0bd9692be"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-551aefaf65b4415bb5bdf325da58103f.xml#id-551aefaf65b4415bb5bdf325da58103f"/>
